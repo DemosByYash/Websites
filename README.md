@@ -1,5 +1,6 @@
 # Websites
 My website which i made using wordpress cms - [hindiport.com](https://hindiport.com/)
+This website is sold to another person on 04/2024.
 ![image](https://github.com/DemosByYash/Websites/assets/154538266/caae80bc-d50a-4bbc-8cf1-8a8c49f7ab18)
 
 
