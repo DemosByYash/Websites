@@ -1,4 +1,15 @@
-# Websites
+# Website 1
+https://redimades.com, an online clothing store (E-com) website in NZ.
+SEO not done on this iste.
+I have helped and developed this for my friend.
+![image](https://github.com/user-attachments/assets/dda2fc85-6a9a-424a-ab80-b9dea5f7e5ec)
+![image](https://github.com/user-attachments/assets/4d0d415c-3475-4957-81eb-391cd1049278)
+![image](https://github.com/user-attachments/assets/667fbe88-37e6-4283-9b70-d83f3c9db95b)
+![image](https://github.com/user-attachments/assets/654acc46-4d64-44a1-9024-56cc767f928a)
+![image](https://github.com/user-attachments/assets/75a6af18-8fdf-4d2e-bfc8-60c405b9eb5c)
+
+
+# Websites 2
 My website which i made using wordpress cms - [hindiport.com](https://hindiport.com/)
 This website was sold to another person on 04/2024.
 ![image](https://github.com/DemosByYash/Websites/assets/154538266/caae80bc-d50a-4bbc-8cf1-8a8c49f7ab18)
