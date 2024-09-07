@@ -1,6 +1,6 @@
 # Website 1
 https://redimades.com, an online clothing store (E-com) website in NZ.
-SEO has not been done on this iste.
+SEO has not been done on this site. Also, some cosmetic changes have to be made.
 I have helped and developed this for my friend.
 ![image](https://github.com/user-attachments/assets/dda2fc85-6a9a-424a-ab80-b9dea5f7e5ec)
 ![image](https://github.com/user-attachments/assets/4d0d415c-3475-4957-81eb-391cd1049278)
