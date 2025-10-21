@@ -29,4 +29,4 @@ This website was sold to another person on 04/2024.
 
 ![image](https://github.com/DemosByYash/Websites/assets/154538266/cc95302a-df84-48ba-b33c-abe1512b9cdf)
 
-![image](https://github.com/DemosByYash/Websites/assets/154538266/0b934aa2-5832-41e4-a43f-59dfa6291bd5)
+
